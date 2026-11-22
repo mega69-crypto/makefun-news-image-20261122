@@ -35,7 +35,7 @@ STORIES = [
     {
         "kicker": "CLIMATE",
         "headline": "COP31 nears a deal as a new draft lands",
-        "summary": "A third draft, released early on Sunday, recalls the "
+        "summary": "A third draft, released on Sunday, recalls the "
                    "COP28 fossil-fuel deal. Objections close at 03:00 GMT.",
         "accent": (78, 205, 196),
         "icon": "globe",
@@ -43,8 +43,8 @@ STORIES = [
     {
         "kicker": "CYBER",
         "headline": "FBI probes breach of its crime database",
-        "summary": "Investigators suspect hackers broke into the NCIC system, "
-                   "which holds records on wanted people and stolen property.",
+        "summary": "Suspected hackers broke into the NCIC system, "
+                   "which lists wanted people and stolen property.",
         "accent": (255, 107, 107),
         "icon": "lock",
     },
